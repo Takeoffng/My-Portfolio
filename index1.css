@@ -1,0 +1,34 @@
+body
+{
+    font-family: 'Clash Display', sans-serif;
+    
+}
+.h1{
+  margin-left: 35%;
+}
+nav{
+    display:flex;
+    background-color:white;
+    justify-content: space-between;
+
+    padding: 15px 70px ;
+    border-bottom: 2px solid rgba(215, 215, 215, 0.938);
+}
+.nav-right{
+    display:flex;
+    justify-content: space-between;
+ gap: 100px;
+    align-items: center;
+    background-color: white;
+}
+.nav-link{
+    display:flex;
+    gap: 30px;
+    font-size: 14px;}
+
+    .nav-link a{
+        font-size: 14px;
+        text-decoration: none;
+        color: black
+    }
+
